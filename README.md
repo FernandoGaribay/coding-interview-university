@@ -570,6 +570,7 @@ Challenge/Practice sites:
 Alright, enough talk, let's learn!
 
 But don't forget to do coding problems from above while you learn!
+# Mark of personal progress
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 
